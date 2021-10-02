@@ -1,0 +1,47 @@
+@media (min-width: 1801px) {
+  body {
+    background-image: url(googleback.png); }
+
+  #imgpos {
+    margin-top: 110px; } }
+@media (max-width: 1500px) {
+  body {
+    background-image: url(googlebackground.png); }
+
+  #imgpos {
+    margin-top: 80px; } }
+#imgpos {
+  width: 350px;
+  height: auto;
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  margin-left: -178px; }
+
+.a {
+  text-align: right; }
+
+a:link, a:visited {
+  text-decoration: none;
+  color: white; }
+
+a:hover {
+  text-decoration: underline; }
+
+a:active {
+  text-decoration: none; }
+
+.form {
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  top: 47%;
+  margin-left: -275px; }
+  .form input {
+    border-radius: 25px;
+    padding: 9.5px;
+    margin: 4px 2px;
+    border-style: none;
+    width: 540px; }
+
+/*# sourceMappingURL=style.css.map */
